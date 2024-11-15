@@ -1,0 +1,62 @@
+{
+    "airbnbs": [
+      {
+        "id": 1,
+        "name": "Cozy Cabin",
+        "location": "Lake Tahoe",
+        "price": 150,
+        "image": "https://images.unsplash.com/photo-1506748686210-479dfbca0f19?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGNhYmluJTIwbGFrZSUyMHRhaG98ZW58MHx8fHwxNjk5NTM3NjE2&ixlib=rb-1.2.1&q=80&w=1080"
+      },
+      {
+        "id": 2,
+        "name": "Modern Apartment",
+        "location": "New York City",
+        "price": 300,
+        "image": "https://images.unsplash.com/photo-1562562743-d0d100ad9eb7?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDkxfHxhcHBhcnRtZW50fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=1080"
+      },
+      {
+        "id": 3,
+        "name": "Beachside Bungalow",
+        "location": "Malibu",
+        "price": 250,
+        "image": "https://images.unsplash.com/photo-1600656704709-04625c7b944e?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGJlYWNoJTIwbG9naW5nfGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=1080"
+      },
+      {
+        "id": 4,
+        "name": "Mountain Retreat",
+        "location": "Aspen",
+        "price": 400,
+        "image": "https://images.unsplash.com/photo-1600270119237-f5191f59de4d?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDE5fHxtaW5pbW9xdWVzdHxlbnwwfHx8fDE2OTk1MzE0NzY&ixlib=rb-1.2.1&q=80&w=1080"
+      },
+      {
+        "id": 5,
+        "name": "City Loft",
+        "location": "San Francisco",
+        "price": 350,
+        "image": "https://images.unsplash.com/photo-1570306662317-79ae8b9eb8e3?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGxvZnR8ZW58MHx8fHwxNjk5NTM3NjI2&ixlib=rb-1.2.1&q=80&w=1080"
+      },
+      {
+        "id": 6,
+        "name": "Rustic Farmhouse",
+        "location": "Nashville",
+        "price": 200,
+        "image": "https://images.unsplash.com/photo-1567441394-0e8da430f835?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDV8fGZhcmtob3VzZXxlbnwwfHx8fDE2OTk1MzE0NzI&ixlib=rb-1.2.1&q=80&w=1080"
+      },
+      {
+        "id": 7,
+        "name": "Luxury Villa",
+        "location": "Miami",
+        "price": 500,
+        "image": "https://images.unsplash.com/photo-1584194207526-7e0fa51a1e44?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fGx1eHVyeSUyMHZpbGxhfGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=1080"
+      },
+      {
+        "id": 8,
+        "name": "Countryside Cottage",
+        "location": "Vermont",
+        "price": 180,
+        "image": "https://images.unsplash.com/photo-1595137289744-8de3c2b1b9fe?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGNvdHRhZ2V8ZW58MHx8fHwxNjk5NTM3NjIz&ixlib=rb-1.2.1&q=80&w=1080"
+      }
+    ]
+  }
+  
+  
